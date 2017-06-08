@@ -1,0 +1,4 @@
+Town Girl
+Survivor:Exploration=1;Endurance=-1
+Childish:Bravery=1;Stealth=-1
+Plumber:Battery Management=1;Bravery=-1

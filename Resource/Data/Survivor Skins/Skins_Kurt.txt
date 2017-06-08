@@ -1,0 +1,4 @@
+Hoodie
+Halloween:Bravery=1;Stealth=-1
+Gamer:Exploration=1;Endurance=-1
+Camo:Stealth=1;Vitality=-1

@@ -1,0 +1,7 @@
+Speed:5
+Endurance:3
+Exploration:8
+Battery Management:4
+Bravery:7
+Stealth:5
+Vitality:4

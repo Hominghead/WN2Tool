@@ -1,0 +1,4 @@
+Rags
+Colonel:Bravery=1;Exploration=-1
+Rancher:Exploration=1;Stealth=-1
+Siberia:Endurance=1;Battery Management=-1

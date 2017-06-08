@@ -1,0 +1,4 @@
+Lost Glory
+Detective:Endurance=1;Exploration=-1
+Nosferatu:Stealth=1;Vitality=-1
+Replicant:Battery Management=1;Stealth=-1

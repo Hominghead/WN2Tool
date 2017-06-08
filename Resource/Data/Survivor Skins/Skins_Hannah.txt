@@ -1,0 +1,4 @@
+Sportswear
+Amber:Endurance=1;Battery Management=-1
+Tennis Shorts:Battery Management=1;Exploration=-1
+Autumnal:Bravery=1;Endurance=-1

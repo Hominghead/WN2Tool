@@ -1,0 +1,4 @@
+Student
+Cute:Battery Management=1;Bravery=-1
+Groupie:Bravery=1;Exploration=-1
+Cheerleader:Endurance=1;Stealth=-1

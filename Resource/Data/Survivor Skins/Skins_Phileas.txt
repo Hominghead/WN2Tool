@@ -1,0 +1,4 @@
+Antique Dealer
+Old Fashioned:Bravery=1;Battery Management=-1
+Professor:Endurance=1;Bravery=-1
+Casanova:Exploration=1;Stealth=-1

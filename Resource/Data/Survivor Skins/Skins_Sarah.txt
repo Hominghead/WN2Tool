@@ -1,0 +1,4 @@
+Vest
+Plain Clothes:Exploration=1;Bravery=-1
+Racing Suit:Endurance=1;Stealth=-1
+Farmer:Bravery=1;Exploration=-1

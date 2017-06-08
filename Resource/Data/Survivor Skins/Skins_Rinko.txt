@@ -1,0 +1,4 @@
+Daily Clothing
+Daring Style:Bravery=1;Stealth=-1
+Fake Blonde:Endurance=1;Bravery=-1
+Winter Clothing:Exploration=1;Battery Management=-1

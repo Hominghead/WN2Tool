@@ -1,0 +1,4 @@
+Leather Jacket
+Woodcutter:Endurance=1;Battery Management=-1
+Autumnal:Stealth=1;Bravery=-1
+Aged:Exploration=1;Endurance=-1

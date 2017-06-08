@@ -1,0 +1,4 @@
+Librarian
+Fortune Teller:Exploration=1;Battery Management=-1
+Entrepreneur:Battery Management=1;Bravery=-1
+Occultist:Endurance=1;Stealth=-1

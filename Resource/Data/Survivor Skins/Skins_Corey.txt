@@ -1,0 +1,4 @@
+Bookworm
+Posh Kid:Exploration=1;Battery Management=-1
+Troublemaker:Bravery=1;Stealth=-1
+Trendy:Battery Management=1;Bravery=-1

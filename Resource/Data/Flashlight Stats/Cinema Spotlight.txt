@@ -1,0 +1,7 @@
+Battery Life:2
+Range:8
+Spread:8
+Speed:4
+Endurance:5
+Exploration:8
+Stealth:3

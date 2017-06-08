@@ -1,0 +1,4 @@
+Investigator
+Black & Purple:Endurance=1;Exploration=-1
+Soviet Jacket:Exploration=1;Battery Management=-1
+Autumnal:Battery Management=1;Bravery=-1

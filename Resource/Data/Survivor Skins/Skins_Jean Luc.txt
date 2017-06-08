@@ -1,0 +1,4 @@
+Student
+Old Rocker:Bravery=1;Stealth=-1
+Executive:Exploration=1;Battery Management=-1
+Autumnal:Battery Management=1;Endurance=-1

@@ -1,0 +1,4 @@
+Sport Jacket
+Trendy Office Lady:Endurance=1;Exploration=-1
+Adventurer:Exploration=1;Stealth=-1
+Gothic Girl:Bravery=1;Vitality=-1

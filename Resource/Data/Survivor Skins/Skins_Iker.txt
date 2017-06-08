@@ -1,0 +1,4 @@
+Summer Night
+Holiday Suit:Exploration=1;Stealth=-1
+King of Metal:Stealth=1;Endurance=-1
+Biker:Bravery=1;Exploration=-1
